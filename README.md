@@ -1,1 +1,3 @@
 # KNN-Project
+
+This repository contains a machine learning project that utilizes the K Nearest Neighbors (KNN) algorithm for classification tasks. The project includes data exploration, preprocessing, feature scaling, model training, and evaluation. The aim is to develop an accurate KNN model to classify data points based on their features. Key steps include selecting optimal hyperparameters, handling missing values, and assessing model performance using accuracy, confusion matrix, and other relevant metrics. This project demonstrates the effectiveness of KNN in various classification scenarios.
